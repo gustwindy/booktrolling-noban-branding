@@ -35,7 +35,7 @@ public abstract class BookEditScreenMixin extends Screen {
     @Unique
     private static final Callable<Character> STATIC_CHAR_PROVIDER = () -> (char)2048;
     @Unique
-    private static final String BRANDING = "BookTrolling™ by Captain_S0L0";
+    private static final String BRANDING = "and ill make u understand itt";
 
     // accessors
     @Shadow @Final private PlayerEntity player;
